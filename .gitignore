@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Django
+*.log
+staticfiles/
+media/
+
+
+
+# Env (VERY IMPORTANT)
+.env
+.env.*
+
+# OS
+.DS_Store
